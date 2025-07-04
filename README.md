@@ -38,6 +38,4 @@ A fully responsive **Smart Weather App** built with **Vanilla JavaScript**, **HT
 **Mokhtar Mohamed**  
 GitHub: [@Mokhtar-Mohammed-Ali](https://github.com/Mokhtar-Mohammed-Ali)
 
----
 
-> Part of the 100 Days of JavaScript Challenge with Rout Academy 🚀
